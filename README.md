@@ -11,11 +11,12 @@ To run:
 1. Set up connection to the local/remote SQL database in the .env file
 2. Fire up the terminal and run:
 
-$ php artisan migrate
-$ php artisan seed
+  $ php artisan migrate
+
+  $ php artisan seed
 
 3. To start the local server at http://127.0.0.1:8000 run
 
-$ php artisan serve
+  $ php artisan serve
 
 Thanks and credits to @creativetim for Now UI Kit.
